@@ -1,0 +1,11 @@
+{
+  "name": "pg-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/romshin/hello-world.git",
+  "author": "Roman Yushin <broothost@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.7.0"
+  }
+}

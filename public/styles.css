@@ -1,0 +1,18 @@
+h1 {
+  color: green;
+  font-size: 48px;
+  font-weight: 400;
+  animation: logo 4.5s linear infinite;
+}
+
+@keyframes logo {
+  0% {
+    color: green;
+  }
+  50% {
+    color: red;
+  }
+  100% {
+    color: green;
+  }
+}
